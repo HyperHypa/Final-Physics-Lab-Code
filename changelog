@@ -1,0 +1,15 @@
+Iteration 1: Simple pendulum using the Verlet method.
+
+Iteration 2: Coupled pendulum with spring connection.
+
+Iteration 3: Coupled pendulum with shaking board connection.
+
+Iteration 4: Position on the X-axis against time with the kuramoto model (give length of pendulum)
+
+Iteration 5: Angle against time with the kuramoto model (give length of pendulum)
+
+Iteration 6: Position on the X-axis against time with the kuramoto model (give period of pendulum) (using real values)
+
+Iteration 7: Angle against time with the kuramoto model (give period of pendulum) (using real values)
+
+Iteration 8: Coupled spring-mass system
